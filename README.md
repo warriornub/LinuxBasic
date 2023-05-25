@@ -2,4 +2,8 @@
 
 A summary of my notes that I learned on Linux !
 
-##Try
+##Steps to git
+
+## Step 1: Check if Git is installed in your computer:
+
+git --version
